@@ -1,0 +1,22 @@
+.logo {
+    width: 80px;
+}
+.search{
+    margin: auto;
+    
+}
+.search-button{
+    cursor: pointer;
+    background-color: #F06C4E;
+    color: white;
+}
+.card-custom{
+    width: 500px;
+    margin: auto;
+}
+.card-custom img{
+    height: 350px;
+}
+#pointer{
+    cursor: pointer;
+}
